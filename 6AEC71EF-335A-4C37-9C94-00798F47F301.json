@@ -1,0 +1,14 @@
+{
+	"Date of capture": "Sat Feb 18 2017 10:17:48 GMT-0500 (EST)",
+	"File formats contained in package": "HDF-5, PDF",
+	"Individual source or seed URL": "https://disc.sci.gsfc.nasa.gov/uui/datasets/GPM_3IMERGM_V03/summary",
+	"Institution facilitating the data capture creation and packaging": "",
+	"Name of package creator": "antonpaquin",
+	"Name of resource": "",
+	"Type(s) of content in package": "This url is part of this larger one : http://www.archivers.space/urls/B59D4BAC-EE63-4E01-8F3B-8689B220ABD2 (7 datasets)\n\nGPM_3IMERGHHL: GPM L3 IMERG Late Half Hourly 0.1 degree x 0.1 degree Precipitation V03\nRelevance/High Level Description: Satellite collected precipitation data that feeds into a climate prediction model and cloud classification model\n\nSpecific Description: These are provided to both the Climate Prediction Center (CPC) Morphing-Kalman Filter (CMORPH-KF) Lagrangian time interpolation scheme and the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks Cloud Classification System (PERSIANN-CCS) re-calibration scheme.",
+	"UUID": "6AEC71EF-335A-4C37-9C94-00798F47F301",
+	"recommended_approach": "You can find the ftp server address in the first xml file (click on online archive on the right). From then wget can download everything\n\nPlease make a pdf with all information from the landing page and download associated documents :\n-Requires specific citation listed on landing page. Remember to save this along with each data file. \n-Documentation also located on landing page. Save this as well (PDF format)\n-Product Summary also contains important information regarding spatial coverage and relevant time range. \n\nPlease ping me (@tek¼ on slack if you need help)",
+	"significance": "This url is part of this larger one : http://www.archivers.space/urls/B59D4BAC-EE63-4E01-8F3B-8689B220ABD2 (7 datasets)\n\nGPM_3IMERGHHL: GPM L3 IMERG Late Half Hourly 0.1 degree x 0.1 degree Precipitation V03\nRelevance/High Level Description: Satellite collected precipitation data that feeds into a climate prediction model and cloud classification model\n\nSpecific Description: These are provided to both the Climate Prediction Center (CPC) Morphing-Kalman Filter (CMORPH-KF) Lagrangian time interpolation scheme and the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks Cloud Classification System (PERSIANN-CCS) re-calibration scheme.",
+	"title": "GPM_3IMERGM: GPM L3 IMERG Final 1 month 0.1 degree x 0.1 degree precipitation V03",
+	"url": "https://disc.sci.gsfc.nasa.gov/uui/datasets/GPM_3IMERGM_V03/summary"
+}
